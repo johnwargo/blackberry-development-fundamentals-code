@@ -1,0 +1,40 @@
+{--hajhakjdhakjyuwlanaje
+Content-Type: application/xml; charset=UTF-8
+
+<?xml version="1.0"?>
+<!DOCTYPE pap PUBLIC "-//WAPFORUM//DTD PAP 2.0//EN" 
+"http://www.wapforum.org/DTD/pap_2.0.dtd" 
+[<?wap-pap-ver supported-versions="2.0,1.*"?>]>
+<pap>
+<push-message push-id="my_push_app_129011225693372730">
+<address address-value="WAPPUSH=someuser1%40somecompany.com%3A7874/TYPE=USER@rim.net"/>
+</push-message>
+</pap>
+--hajhakjdhakjyuwlanaje
+Content-Type: text/html
+X-RIM-Push-Title: Contacts
+X-RIM-Push-Type: Browser-Channel
+X-RIM-Push-Channel-ID: Contacts-channel-id
+Content-Location: http://dennis.neo.rr.com/contacts.html
+X-RIM-Push-UnRead-Icon-URL: http://dennis.neo.rr.com/contacts_unread.png
+X-RIM-Push-Read-Icon-URL: http://dennis.neo.rr.com/contacts_read.png
+X-Rim-Push-Priority: medium
+X-Rim-Push-Reliability: application-preferred
+<!DOCTYPE html public "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Contacts Page</TITLE>
+</HEAD>
+</HEAD>
+<BODY>
+<h1>Contacts</h1>
+<p>Name: John Wargo</p>
+<p>Email Address: jwargo@bbdevfundamentals.com</p>
+<p>Name: Anna Wargo</p>
+<p>Email Address: awargo@bbdevfundamentals.com</p>
+</BODY>
+</HTML>
+
+--hajhakjdhakjyuwlanaje--
+
+}

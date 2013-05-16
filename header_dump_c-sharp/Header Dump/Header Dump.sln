@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Header Dump", ".", "{DDF087A8-08EE-4471-A302-4E86E9AE1737}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Header Dump"
+		Debug.AspNetCompiler.PhysicalPath = "..\Header Dump\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Header Dump\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Header Dump"
+		Release.AspNetCompiler.PhysicalPath = "..\Header Dump\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Header Dump\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63770"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF087A8-08EE-4471-A302-4E86E9AE1737}.Debug|.NET.ActiveCfg = Debug|.NET
+		{DDF087A8-08EE-4471-A302-4E86E9AE1737}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
